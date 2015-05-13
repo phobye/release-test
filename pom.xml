@@ -3,12 +3,12 @@
 
 	<groupId>hu.phobye.samples</groupId>
 	<artifactId>release-test</artifactId>
-	<version>1.0.3-SNAPSHOT</version>
+	<version>1.0.3</version>
 	<packaging>pom</packaging>
 	
 	<scm>
 		<developerConnection>scm:git:git@github.com:phobye/${project.artifactId}.git</developerConnection>
-		<tag>HEAD</tag>
+		<tag>release-test-1.0.3</tag>
 	</scm>
 	
 	<modules>
